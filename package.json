@@ -8,5 +8,9 @@
     "express": "^4.15.3",
     "redis": "^2.7.1",
     "response-time": "^2.3.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   }
 }
